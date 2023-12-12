@@ -1,0 +1,36 @@
+.banner
+{
+    height: 90ch;
+}
+
+.expertise
+{
+    background-color: white;
+    height: 90ch;
+}
+
+.expertise h1
+{
+    padding-top: 4ch;
+    padding-bottom: 2ch;
+    padding-left: 1ch;
+    font-weight: bold;
+}
+
+.expertise h4
+{
+    padding-top: 1ch;
+    font-weight: bold;
+    text-align: center;
+}
+
+.images_expertise
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+img
+{
+    height: 30ch;
+}
